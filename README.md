@@ -2,9 +2,9 @@
 
 This project is dedicated to translating non-modern Italian into modern Italian using large language models (LLMs).
 
-Group name: Gradient Explorers
+**Group name**: Gradient Explorers
 
-Luca Franzin 1886634            Francesco Casacchia 1698281
+Luca Franzin 1886634      ----      Francesco Casacchia 1698281
 
 ## Project Overview
 
